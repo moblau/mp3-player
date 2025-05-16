@@ -49,22 +49,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDl0Pxk4Jtven1jBSFe5gbNn1qtRT4FGmc',
-    appId: '1:525624388099:android:ef2f5b29939fc372ce3c36',
-    messagingSenderId: '525624388099',
-    projectId: 'audiovis2-fd440',
-    storageBucket: 'audiovis2-fd440.firebasestorage.app',
-  );
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDl_tN2PrRO1YflwR85iIvYeg9tmzT9fGo',
-    appId: '1:525624388099:web:335c3353a6b30a5ace3c36',
-    messagingSenderId: '525624388099',
-    projectId: 'audiovis2-fd440',
-    authDomain: 'audiovis2-fd440.firebaseapp.com',
-    storageBucket: 'audiovis2-fd440.firebasestorage.app',
-    measurementId: 'G-JRV5ZH5MQ6',
-  );
+//firebase API keys here
 
 }
