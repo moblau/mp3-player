@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525624388099",
+    "project_id": "audiovis2-fd440",
+    "storage_bucket": "audiovis2-fd440.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525624388099:android:ef2f5b29939fc372ce3c36",
+        "android_client_info": {
+          "package_name": "com.example.av"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0Pxk4Jtven1jBSFe5gbNn1qtRT4FGmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
